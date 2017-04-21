@@ -1,9 +1,9 @@
-package com.tecsup.lab7.test;
+package com.tecsup.lab8.test;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.tecsup.lab7.main.App;
+import com.tecsup.lab8.main.App;
 
 
 public class AppTest {
