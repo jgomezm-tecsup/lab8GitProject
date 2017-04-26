@@ -14,7 +14,8 @@ public class App {
 		System.out.println("jgomezz");
 		
 	}
-
+        
+	// Metodo de prueba
 	public String reverseString(String src) {
 		return new StringBuilder(src).reverse().toString();
 	}
