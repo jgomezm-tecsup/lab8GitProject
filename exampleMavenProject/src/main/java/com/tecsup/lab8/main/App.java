@@ -14,10 +14,32 @@ public class App {
 		
 		// Nuevo Cambio
 		System.out.println("cambio desde el usuario jgomezz");
+
+		
+		// Fin de proceso
+		end();
+
+		//
+		procesar();
+		
+	}
+
+	private static void end() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void procesar() {
+		// TODO Auto-generated method stub
+		
 	}
 
 	public String reverseString(String src) {
 		return new StringBuilder(src).reverse().toString();
 	}
 
+	
+	
 }
+
+
