@@ -20,4 +20,9 @@ public class App {
 		return new StringBuilder(src).reverse().toString();
 	}
 
+	
+	private void miFunction() {
+		// TODO Auto-generated method stub
+
+	}
 }
