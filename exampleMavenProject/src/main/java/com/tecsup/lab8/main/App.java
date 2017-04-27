@@ -10,6 +10,7 @@ public class App {
 		System.out.println("The reverse string of \"" + str + "\" is \"" + appObject.reverseString(str) + "\"");
 
 		// nuevo comentario
+		
 		System.out.println("jgomezz");
 		
 		// Nuevo Cambio
@@ -41,6 +42,11 @@ public class App {
 
 	
 	
+	
+	private void miFunction() {
+		// TODO Auto-generated method stub
+
+	}
 }
 
 
